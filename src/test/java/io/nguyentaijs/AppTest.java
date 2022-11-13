@@ -1,4 +1,4 @@
-package org.example;
+package io.nguyentaijs;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
